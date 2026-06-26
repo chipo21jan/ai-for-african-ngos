@@ -34,3 +34,7 @@ Interested in the full suite, a pilot, or working together? **chipo@fandginvent.
 ## License
 
 See `LICENSE`. These tools are shared to demonstrate capability; all rights reserved.
+
+## Disclaimer
+
+This is an independent project by Chipo Shereni. It uses Anthropic's Claude, but is **not affiliated with, endorsed by, or accredited by Anthropic**. "Claude" and "Anthropic" are trademarks of their owner.
