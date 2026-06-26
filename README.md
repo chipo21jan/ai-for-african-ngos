@@ -22,7 +22,7 @@ Each is a Claude **skill** — open `skills/<name>/SKILL.md` to see how it works
 ## What makes these different
 
 - **Africa-first.** Designed around WhatsApp, multilingual realities, and local funder landscapes — not US/EU assumptions.
-- **Ethics built in.** Every tool refuses to fabricate figures (unknowns are marked `[TO CONFIRM]`), protects beneficiary data per African law (POPIA, Kenya DPA, Nigeria NDPA), keeps a human in the loop, and treats communities with dignity.
+- **Ethics built in.** Every tool refuses to fabricate figures (unknowns are marked `[TO CONFIRM]`), protects beneficiary data under the applicable national data-protection law (e.g. POPIA, Kenya DPA, Nigeria NDPA, Ghana's DPA, and others across the continent — see the data-protection note below), keeps a human in the loop, and treats communities with dignity.
 - **Safety-critical care.** The beneficiary assistant never gives medical/legal advice and escalates danger signs and distress to a real person.
 
 ## The full picture
@@ -30,6 +30,10 @@ Each is a Claude **skill** — open `skills/<name>/SKILL.md` to see how it works
 This showcase is part of a complete four-pillar suite — **19 tools** spanning Fundraising & Grants, Monitoring & Evaluation, Program Delivery, and Admin & Operations — covering the full NGO workflow.
 
 Interested in the full suite, a pilot, or working together? **chipo@fandginvent.com**
+
+## Data protection
+
+These tools are built data-protection-first. For how that works — the African data-protection landscape, the controller/processor relationship with the AI vendor, when GDPR or cross-border-transfer rules apply, and the data-minimisation principle the tools rely on — see **[docs/Data-Protection-and-AI.md](docs/Data-Protection-and-AI.md)** (with sources).
 
 ## License
 
