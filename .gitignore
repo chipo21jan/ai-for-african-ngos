@@ -1,0 +1,61 @@
+# ==========================================================
+#  SAFETY FIRST — never commit sensitive data to this repo.
+#  This repo holds REUSABLE SOLUTIONS only (code, skills,
+#  templates). Client data, donor/beneficiary PII, secrets,
+#  and signed agreements must NEVER be committed.
+# ==========================================================
+
+# --- Secrets, keys, credentials ---
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+secrets/
+credentials/
+*token*
+*apikey*
+*api_key*
+*.secret
+
+# --- Client & beneficiary data (PII / POPIA / NDPA / DPA) ---
+client-data/
+clients/
+beneficiaries/
+donors/
+pii/
+*_PII*
+*personal-data*
+real-data/
+*.contacts.csv
+
+# --- Anything explicitly marked private ---
+private/
+PRIVATE/
+*-PRIVATE*
+DO-NOT-COMMIT/
+
+# --- Office/working files that often hide PII ---
+*.xlsx
+*.xls
+*.docx
+*.pptx
+*.pdf
+# (Exception: commit blank TEMPLATES deliberately with: git add -f path)
+
+# --- OS / editor noise ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+
+# --- Dependency / build artefacts ---
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+build/
