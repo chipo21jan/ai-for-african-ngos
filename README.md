@@ -2,19 +2,20 @@
 
 Claude-powered tools that help African NGOs raise money, prove impact, and deliver programs — built for real African conditions: low bandwidth, multiple languages, WhatsApp-first, and data-protection-aware.
 
-This is a **public showcase** of three representative tools from a larger suite. It's a portfolio: a demonstration of how AI can be made genuinely useful — and safe — for non-profits across the continent.
+This is a **public showcase** of four representative tools — one from each pillar of a larger suite. It's a portfolio: a demonstration of how AI can be made genuinely useful — and safe — for non-profits across the continent.
 
 Built by **Chipo Shereni** · AI-for-NGOs consultant · chipo@fandginvent.com
 
 ## What's here
 
-Three tools, one from each of three pillars, chosen to show range:
+Four tools, one from each pillar, chosen to show range:
 
 | Tool | Pillar | What it does |
 |---|---|---|
 | `grant-proposal-drafter` | Fundraising & Grants | Turns a concept + funder call into a funder-ready proposal draft, tailored to the funder and honest about gaps |
 | `logframe-designer` | Monitoring & Evaluation | Builds logframes, results frameworks, theories of change, and indicator sets |
 | `beneficiary-assistant` | Program Delivery | Designs a safe WhatsApp/SMS Q&A and referral assistant for the communities NGOs serve |
+| `policy-document-drafter` | Admin & Operations | Drafts core NGO policies — HR, safeguarding, code of conduct — plus MoUs and board-minute templates |
 
 Each is a Claude **skill** — open `skills/<name>/SKILL.md` to see how it works, with reference material and a worked test example.
 
