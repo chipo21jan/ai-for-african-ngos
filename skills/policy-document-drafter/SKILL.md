@@ -70,6 +70,10 @@ Before calling a draft done, read back through it and list plainly what's still 
 
 Deliver the document as a clean file the organisation can edit and adopt (default to a Word/.docx or Markdown file unless they ask otherwise), written in their voice with `[TO CONFIRM]` and `[ORG NAME]`-style placeholders where real details are needed. Always pair it with a short **adoption checklist** covering: board (or governing-body) approval, a stated review date, whether a translation is needed and into which language, and who in the organisation owns and maintains the policy. A drafted policy that no one has approved, dated, translated or assigned an owner is not yet a working policy — the checklist is what turns the draft into something real.
 
+## Accessibility
+
+This skill follows the suite accessibility baseline — see `docs/Accessibility-Baseline.md`. In short: plain language, screen-reader-friendly output (real headings, alt text, no text trapped in images), and voice/text options where the channel supports them.
+
 ## Supporting files
 
 - `references/policy-intake.md` — the full grouped intake checklist plus a minimum-viable quick-start.
