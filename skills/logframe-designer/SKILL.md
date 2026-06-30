@@ -70,6 +70,10 @@ Before calling it done, run back through and flag plainly: any activity that ser
 
 Deliver the framework as a clean, editable artefact: a logframe matrix and/or results framework (default to a Markdown table or Word/.docx; offer a spreadsheet if the NGO prefers), plus the theory-of-change statement. If the donor specified a template, match it exactly. Always pair the framework with the short gaps list from stage 6 — the missing baselines, unconfirmed targets and untested assumptions the NGO still needs to resolve.
 
+## Accessibility
+
+This skill follows the suite accessibility baseline — see `docs/Accessibility-Baseline.md`. In short: plain language, screen-reader-friendly output (real headings, alt text, no text trapped in images), and voice/text options where the channel supports them.
+
 ## Supporting files
 
 - `references/results-logic.md` — the results chain explained, the difference between each level, and a reusable theory-of-change pattern with worked examples.
