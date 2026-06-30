@@ -82,6 +82,10 @@ This is the most safety-critical skill in the suite. The people on the other end
 
 Deliver the design as a clean, editable package the NGO can review and own: a structured message library (intent/keyword → safe reply → escalation trigger), a verified referral directory, and an escalation ladder — defaulting to the format in `assets/referral-and-escalation-template.md` unless asked otherwise. Always pair it with a plain "before you launch" checklist covering what must be verified, staffed, translated and signed off first, and a clear list of every `[TO CONFIRM]` with an owner. Make explicit, in writing, that the assistant must not go live until a trained human has reviewed the whole library and the human backstop is in place.
 
+## Accessibility
+
+This skill follows the suite accessibility baseline — see `docs/Accessibility-Baseline.md`. In short: plain language, screen-reader-friendly output (real headings, alt text, no text trapped in images), and voice/text options where the channel supports them.
+
 ## Supporting files
 
 - `references/safe-messaging-and-referral.md` — the safety core: scope limits, safeguarding and distress handling, the escalation ladder, referral directory design, consent and data minimisation, and what to do when no safe answer exists.
