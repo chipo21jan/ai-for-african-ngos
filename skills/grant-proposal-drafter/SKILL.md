@@ -1,4 +1,4 @@
----
+<img width="1607" height="472" alt="image" src="https://github.com/user-attachments/assets/1684000a-1eef-4191-a6f2-65655f7d0de1" />---
 name: grant-proposal-drafter
 description: Drafts funder-ready grant proposals for African NGOs and community-based organisations. Use this whenever someone needs to write, structure, or strengthen a grant proposal, concept note, expression of interest, or funding application — especially for an NGO, non-profit, CBO, or charity working in Africa. Trigger even when the user just shares a concept note, a call for proposals, or an org profile and asks for help "applying for funding", "writing a proposal", "responding to this donor", or "turning this idea into something a funder will fund", even if they don't say the word "grant". Also use to tailor an existing draft to a specific funder's format and priorities, or to check a draft against a funder's requirements before submission.
 ---
@@ -66,6 +66,11 @@ Before calling a draft done, check it against the funder's actual requirements a
 ## Output
 
 Deliver the proposal as a clean document the NGO can edit and submit (default to a Word/.docx or Markdown file unless they ask otherwise). Always pair it with the short "before you submit" gap checklist from stage 5. If the funder specified a format or length, match it exactly and note the current word/page count against the limit.
+
+## Accessibility
+
+This skill follows the suite accessibility baseline — see `docs/Accessibility-Baseline.md`. In short: plain language, screen-reader-friendly output (real headings, alt text, no text trapped in images), and voice/text options where the channel supports them.
+
 
 ## Supporting files
 
